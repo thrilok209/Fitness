@@ -246,8 +246,10 @@ body {
   #contact .row {
     margin-left: 5em; }
     #contact .row i {
-      font-size: 3em; }
+      font-size: 3em;
+      margin-right: 0.4em; }
     #contact .row h3 {
+      font-weight: bold;
       font-size: 1.4em; }
     #contact .row p {
       font-size: 0.9em; }
@@ -261,6 +263,6 @@ body {
     #contact .form-inline #text {
       width: 11em; }
     #contact .form-inline #email {
-      width: 16em; }
+      width: 19em; }
 
 /*# sourceMappingURL=styles.css.map */
