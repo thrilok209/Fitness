@@ -7,6 +7,8 @@ body {
   #home img.firs {
     width: 100%;
     height: 65em; }
+  #home a {
+    font-weight: bold; }
   #home a.about {
     position: absolute;
     top: 3.5em;
@@ -235,5 +237,30 @@ body {
     #last .text h2 {
       font-size: 2.5em;
       line-height: 1.5em; }
+
+#contact {
+  background-color: #0D111A;
+  color: white;
+  padding-top: 3em;
+  padding-bottom: 20em; }
+  #contact .row {
+    margin-left: 5em; }
+    #contact .row i {
+      font-size: 3em; }
+    #contact .row h3 {
+      font-size: 1.4em; }
+    #contact .row p {
+      font-size: 0.9em; }
+  #contact .form-inline {
+    margin-left: 32em;
+    padding-top: 3em; }
+    #contact .form-inline .color {
+      background-color: #A2CA29;
+      width: 10em;
+      color: white; }
+    #contact .form-inline #text {
+      width: 11em; }
+    #contact .form-inline #email {
+      width: 16em; }
 
 /*# sourceMappingURL=styles.css.map */

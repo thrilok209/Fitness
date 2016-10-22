@@ -1,0 +1,35 @@
+#contact{
+  background-color: #0D111A;
+  color: white;
+  padding-top: 3em;
+  padding-bottom: 20em;
+
+
+  .row{
+    margin-left: 5em;
+    i{
+      font-size: 3em;
+    }
+    h3{
+      font-size: 1.4em;
+    }
+    p{
+      font-size: 0.9em;
+    }
+  }
+  .form-inline{
+    margin-left: 32em;
+    padding-top: 3em;
+    .color{
+      background-color: $green-color;
+      width: 10em;
+      color: white;
+    }
+    #text{
+      width: 11em;
+    }
+    #email{
+      width: 16em;
+    }
+  }
+}
