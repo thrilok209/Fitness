@@ -67,7 +67,8 @@ body {
   background-color: #A2CA29;
   text-align: left;
   color: white;
-  padding: 6em 8em; }
+  padding: 6em 8em;
+  position: relative; }
   #det1 .row {
     padding-right: 8em; }
     #det1 .row i {
@@ -206,7 +207,6 @@ body {
       #det7 .row .col-sm-8 h3.left {
         color: #A2CA29;
         font-size: 2em;
-        line-height: 0.5em;
         text-transform: uppercase;
         padding-bottom: 1em; }
     #det7 .row .col-sm-4 {
