@@ -13,7 +13,8 @@ text-align: center;
  max-height: 100%;
 
 .col-sm-8{
-  max-height: auto;}
+  max-height: auto;
+  }
 p.head{
   padding-top: 2em;
   color:$red-color;
@@ -29,7 +30,7 @@ a{
   color: $green-color;
 }
 img{
-    transform: translate(-1em,-0.37em) scale(1,1.028);
+    transform: translate(-1.1em, 0.01em) scale(1, 1);
 
 }
 
